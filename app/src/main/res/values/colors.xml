@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#2c3e50 </color>
+    <color name="colorPrimaryDark">#202d3a</color>
+    <color name="colorAccent">#ff5e67</color>
+
+
+    <color name="colorPrimary2">#82150f </color>
+    <color name="colorPrimaryDark2">#61100c</color>
+    <color name="colorAccent2">#ff8a80</color>
+
+    <color name="colorPrimary3">#785447 </color>
+    <color name="colorPrimaryDark3">#533a30</color>
+    <color name="colorAccent3">#FE9700</color>
+    <color name="colorAccent6">#FC9403</color>
+
+    <color name="colorPrimary4">#388E3C </color>
+    <color name="colorPrimaryDark4">#1B5E20</color>
+    <color name="colorAccent4">#64DD17</color>
+
+    <color name="colorPrimary5">#0F80A2</color>
+    <color name="colorPrimaryDark5">#094a5d</color>
+    <color name="colorAccent5">#45C1FA</color>
+
+    <color name="colorSelected">#c7dcff</color>
+
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="textColorSecondary">#9E9E9E</color>
+    <!-- inverse text color: 87% black -->
+    <color name="textColorPrimaryInverse">#DE000000</color>
+    <color name="textColorSecondaryInverse">#9E9E9E</color>
+
+    <color name="black">#FF000000</color>
+    <color name="gray">#626262</color>
+
+    <color name="colorToolbar">#2e3f51</color>
+    <color name="text">#CC000000</color>
+
+    <color name = "widget_text_color"> #CCFFFFFF</color>
+    <color name = "widget_background_color">#AA626262</color>
+    <color name = "widget_background_border_color">#55f2a53e</color>
+
+    <color name="cardViewBackGroundColor">#664778c6</color>
+    <color name="cardViewBackGroundColor0">#774778c6</color>
+    <color name="cardViewBackGroundColor1">#661b5e20</color>
+    <color name="cardViewBackGroundColor2">#6663460c</color>
+    <color name="cardViewBackGroundColor3">#66621b6d</color>
+    <color name="cardViewBackGroundColor4">#664a228e</color>
+    <color name="cardViewBackGroundColor5">#6663111c</color>
+
+    <color name="fab_setting_color">#BB45C1FA</color>
+    <color name="fab_weather_map_color">#BBFC9403</color>
+    <color name="fab_choose_location_color">#BBff5e67</color>
+    <color name="fab_menu_color">#BB388E3C</color>
+    <color name="fab_menu_pressed_color">#BB64DD17</color>
+</resources>

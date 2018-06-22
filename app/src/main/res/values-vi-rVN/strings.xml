@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Blue Sky</string>
+    <string name="temperature">Nhiệt độ</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="save">Lưu</string>
+    <string name="english">Tiếng Anh</string>
+    <string name="vietnamese">Tiếng Việt</string>
+    <string name="intervals">Tự cập nhật dữ liệu</string>
+    <string name="unit">Đơn vị</string>
+    <string name="location">Vị trí</string>
+    <string name="remember_location">Nhớ vị trí</string>
+    <string name="reset_to_default">Đặt lại về mặc định</string>
+    <string name = "detail">Chi tiết > </string>
+
+    /////////////////////////////////////////////////////////
+    <string name="days">Ngày</string>
+    <string name="velocity">Vận tốc</string>
+    <string name="minutes">Phút</string>
+    <string name="each">Mỗi</string>
+    /////////////////////////////////////////////////////
+    <string name="code395">Tuyết rơi vừa hoặc dày, kèm theo sấm chớp</string>
+    <string name="code392">Tuyết rơi nhẹ kèm theo sấm chớp</string>
+    <string name="code389">Mưa vừa hoặc to, kèm sấm chớp</string>
+    <string name="code386">Mưa nhỏ kèm sấm chớp</string>
+    <string name="code377">Mưa vừa, mưa to kèm theo đá</string>
+    <string name="code374">Mưa đá nhỏ</string>
+    <string name="code371">Mưa tuyết vừa hoặc nặng</string>
+    <string name="code368">Mưa tuyết nhẹ</string>
+    <string name="code365">Mưa rào vừa hoặc nặng</string>
+    <string name="code362">Mưa rào nhẹ</string>
+    <string name="code359">Mưa rất to</string>
+    <string name="code356">Mưa vừa hoặc nặng</string>
+    <string name="code353">Mưa nhẹ</string>
+    <string name="code350">Mưa đá</string>
+    <string name="code338">Tuyết rơi dày</string>
+    <string name="code335">Tuyết rơi dày</string>
+    <string name="code332">Tuyết rơi vừa</string>
+    <string name="code329">Tuyết rơi vừa</string>
+    <string name="code326">Tuyết rơi nhẹ</string>
+    <string name="code323">Tuyết rơi nhẹ</string>
+    <string name="code320">Mưa đá vừa hoặc to</string>
+    <string name="code317">Mưa đá nhẹ</string>
+    <string name="code314">Mưa băng giá vừa hoặc nặng</string>
+    <string name="code311">Mưa băng giá nhẹ</string>
+
+    <string name="code308">Mưa to</string>
+    <string name="code305">Đôi khi có mưa to</string>
+    <string name="code302">Mưa vừa</string>
+    <string name="code299">Đôi khi có mưa vừa</string>
+    <string name="code296">Mưa nhỏ</string>
+    <string name="code293">Mưa nhỏ</string>
+    <string name="code284">Mưa phùn lạnh và nặng hạt</string>
+    <string name="code281">Mưa phùn lạnh</string>
+    <string name="code266">Mưa phùn nhẹ</string>
+
+    <string name="code263">Mưa phùn nhẹ</string>
+    <string name="code260">Sương mù đóng băng</string>
+    <string name="code248">Sương mù</string>
+    <string name="code230">Bão tuyết</string>
+    <string name="code227">Tuyết thổi mạnh</string>
+    <string name="code200">Gần nơi sấm sét dữ dội</string>
+    <string name="code185">Gần nơi mưa phùn lạnh</string>
+    <string name="code182">Gần nơi mưa đá</string>
+    <string name="code179">Gần nơi tuyết rơi</string>
+    <string name="code176">Gần nơi có mưa</string>
+    <string name="code143">Sương mù</string>
+    <string name="code122">Trời u ám</string>
+    <string name="code119">Trời nhiều mây</string>
+    <string name="code116">Trời có mây</string>
+    <string name="code113">Trời quang đãng</string>
+    /////////////////////////////////////////////////////
+    <string name="monday">Thứ Hai</string>
+    <string name="tuesday">Thứ Ba</string>
+    <string name="wednesday">Thứ Tư</string>
+    <string name="thursday">Thứ Năm</string>
+    <string name="friday">Thứ Sáu</string>
+    <string name="saturday">Thứ Bảy</string>
+    <string name="sunday">Chủ Nhật</string>
+
+    <string name="mon">T.2</string>
+    <string name="tue">T.3</string>
+    <string name="wed">T.4</string>
+    <string name="thu">T.5</string>
+    <string name="fri">T.6</string>
+    <string name="sat">T.7</string>
+    <string name="sun">C.N</string>
+
+    /////////////////////////////////////////////////////////
+    <string name="loading_data">"Đang kết nối tới máy chủ ..... "</string>
+    <string name="connection_failed">Kết nối thất bại! </string>
+    <string name="unable_to_connect_to_server">Không tìm được thông tin của địa điểm bạn vừa chọn. Hãy kiểm tra lại kết nối internet hoặc thử một địa điểm khác.</string>
+    <string name="try_again">Thử lại</string>
+    <string name="cancel">Huỷ</string>
+    <string name="choose_location">Chọn địa điểm</string>
+    <string name="please_enable_gps">Cấp quyền GPS cho ứng dụng để tự động cập nhật địa điểm hiện tại, hoặc chọn địa điểm của bạn từ bản đồ.</string>
+    <string name="gps_setting">Cài đặt GPS</string>
+    <string name="open_map">Mở bản đồ</string>
+    <string name="forecast">Dự báo</string>
+    <string name="settings">Cài đặt</string>
+    <string name="world_weather_map">Bản đồ thời tiết thế giới</string>
+    ///////////////////////////////////////////////////////////
+    <string name="warning_sunny">Nhớ mặc áo khoác và đội mũ để bảo vệ làn da dưới ánh nắng măt trời.</string>
+    <string name="warning_partly_cloud">Thời tiết hoàn hảo cho các hoạt động dã ngoại và vui chơi tập thể ngoài trời.</string>
+    <string name="warning_overcast">Trời có thể mưa trong vài giờ tới, nhớ mang theo ô khi đi ra khỏi nhà nhé.</string>
+    <string name="warning_thunder">Ngoài trời có sấm sét, đừng ra ngoài để đảm bảo an toàn.</string>
+    <string name="warning_mist">Hãy lái xe cẩn thận. Sương mù có thể che khuất tầm nhìn của bạn đáng kể.</string>
+    <string name="warning_light_snow">Mặc nhiều áo ấm vào, bên ngoài rất lạnh đấy.</string>
+    <string name="warning_rain">Hãy mang theo ô hoặc áo mưa khi ra ngoài, ừng để bị ướt, kẻo bạn sẽ bị cảm đấy.</string>
+    <string name="warning_snow">Tuyết rơi nhiều có thể khiến bạn gặp rắc rối khi tham gia giao thông.</string>
+    <string name="warning_ice_pellets">Đừng ra ngoài trời, mưa đá cực kì nguy hiểm. Hãy ở trong nhà để đảm bảo an t.</string>
+    <string name="warning_rain_thunder">Đừng đứng gần những cây cao, sét có thể đánh vào đó bất kì lúc nào.</string>
+    <string name="quantity_of_forecast_days">Số ngày dự báo</string>
+    <string name="about_us">Thông tin liên hệ</string>
+    <string name="themes">Chủ đề</string>
+    <string name="setting">Cài đặt</string>
+    <string name="warning_sunny2">Mặc đồ màu sáng sẽ tốt hơn đồ màu tối khi đi dưới trời nắng gắt.</string>
+    <string name="warning_thunder2">Trời có thể mưa hoặc bão kèm theo sấm chớp trong vài giờ tới</string>
+    <string name="warning_mist2">Hãy cẩn thận! Nhiều khả năng bạn sẽ bị bệnh liên quan đến đường hô hấp khi đi dưới sương mù.</string>
+    <string name="warning_rain2">Nhớ mang quần áo và các vật dụng đã phơi khô vào trong nhà.</string>
+    <string name="warning_ice_pellets2">Bạn nên cẩn thận khi di chuyển trên những con đường trơn trượt.</string>
+    <string name="warning_rain_thunder2">Trời nhiều khả năng có bão. Bạn hãy chuẩn bị đề phòng cho tình huống đó.</string>
+    <string name="warning_overcast2">Thời tiết xấu có thể làm giảm hưng phấn trong công việc.</string>
+    <string name="warning_partly_cloud2">Khi mây hội tụ càng nhiều, khả năng trời có thể mưa càng cao.</string>
+    <string name="warning_snow2">Khi tuyết dừng rơi là lúc chúng ta có thể chơi một vài môn thể thao mùa đông.</string>
+    <string name="warning_light_snow2">Bạn nên vào nhà khi tuyết rơi nặng hạt hơn.</string>úng
+
+    ///////////////////////////////////////////////////////////////
+    <string name="sun_and_moon">Mặt trời và mặt trăng</string>
+    <string name="sunrise">Mặt trời mọc</string>
+    <string name="sunset">Mặt trời lặn</string>
+    <string name="pressure">Áp suất</string>
+    <string name="wind_speed">Tốc độ gió</string>
+    <string name="wind_direction">Hướng gió</string>
+    <string name="version">Phiên bản 1.0</string>
+    <string name="visit_us">Thông tin liên hệ</string>
+    <string name="visibility">Tầm nhìn xa</string>
+    <string name="uvindex">Chỉ số tia UV</string>
+    <string name="sunrise_time">Giờ mặt trời mọc</string>
+    <string name="sunset_time">Giờ mặt trời lặn</string>
+    <string name="wind_and_pressure">Gió và áp suất</string>
+    <string name="wind_direcrion">Hướng gió</string>
+    <string name="cloud_cover">Tỉ lệ phủ mây</string>
+    <string name="humidity">Độ ẩm</string>
+    <string name="velocity_unit">Đơn vị vận tốc</string>
+    <string name="title_activity_activiy_map_layer">Bản đồ thời tiết</string>
+    <string name="title_activity_maps_layer">Bản đồ thời tiết</string>
+    <string name="chartTittle">Biểu đồ dự báo nhiệt độ và lượng mưa</string>
+    <string name="details">Thông tin chi tiết</string>
+
+
+    <string name="chance_of">Dự báo khả năng</string>
+    <string name="chance_of_sunshine">Khả năng trời đẹp</string>
+    <string name="chance_of_rain">Khả năng có mưa</string>
+    <string name="chance_of_fog">Khả năng có sương mù</string>
+    <string name="chance_of_overcast">Khả năng trời âm u</string>
+    <string name="chance_of_frost">Khả năng có sương muối</string>
+    <string name="all_right_reserved">Bản quyền được đảm bảo</string>
+    <string name="wind_gust">Gió lốc</string>
+    <string name="group_28">Phát triển bởi nhóm 28</string>
+    <string name="unknown_place">Địa điểm vô danh</string>
+    <string name="longitude">Kinh độ</string>
+    <string name="latitude">Vỹ độ</string>
+    <string name="fail_to_connect">Kết nối tới máy chủ thất bại! :(</string>
+    /////////////////////////////////////////////////////////////
+    <string name="member">Thành viên</string>
+    <string name="name02">Đào Quốc Hoàng</string>
+    <string name="name01">Trương Đình Đức</string>
+    <string name="name03">Nguyễn Hoàng Lộc</string>
+    <string name="name04">Nguyễn Huy Linh</string>
+    <string name="name05">Nguyễn Nam Quân</string>
+    ////////////////////////////////////////////////////////////
+    <string name="moon_illumination">Tỉ lệ trăng tròn</string>
+    <string name="temp">Nhiệt độ</string>
+    <string name="wind">Tốc độ gió</string>
+    <string name="precipitation">Lượng mưa</string>
+    <string name="clouds">Mây</string>
+    <string name="unnamed_place">Địa điểm không định danh</string>
+    <string name = "about"> Thông tin ứng dụng</string>
+    <string name = "set_interval">Tự động cập nhật</string>
+    <string name = "theme">Ảnh chủ đề</string>
+    <string name = "apply">Áp dụng</string>
+    <string name = "rainfall">Lượng mưa (mm)</string>
+    <string name = "temperatureC">Nhiệt độ (°C)</string>
+
+</resources>

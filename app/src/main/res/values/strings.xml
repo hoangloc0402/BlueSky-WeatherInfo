@@ -1,0 +1,194 @@
+<resources>
+    <string name="app_name">Blue Sky</string>
+
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="pressure">Pressure</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="wind_direction">Wind Direction</string>
+    <string name="temperature">Temperature</string>
+    <string name="version">Version 1.0.0</string>
+    <string name="weather_app" translatable="false">Blue Sky</string>
+    <string name="group_28">Developed by Group 28</string>
+    <string name="visit_us">Visit us</string>
+    <string name="all_right_reserved">All Right Reserved</string>
+    <string name="copyright" translatable="false">Copyright © 2018 - Group 28 - CSE - BKU</string>
+    <string name="visibility">Visibility</string>
+    <string name="uvindex">Ultraviolet Index</string>
+    <string name="sun_and_moon">Sun And Moon</string>
+    <string name="sunrise_time">Sunrise Time</string>
+    <string name="moon_illumination">Moon Illumination</string>
+    <string name="sunset_time">Sunset Time</string>
+    <string name="wind_and_pressure">Wind and Pressure</string>
+    <string name="wind_gust">Wind Gust</string>
+    <string name="wind_direcrion">Wind Direcrion</string>
+    <string name="cloud_cover">Cloud Cover</string>
+    <string name="chartTittle">Expected temperature and rain volume in 2 weeks</string>
+    <string name="humidity">Humidity</string>
+    <string name="detail">Detail > </string>
+
+    /////////////////////////////////////////////////////////
+    <string name="location">Location</string>
+    <string name="remember_location">Remember Location</string>
+    <string name="language">Language</string>
+    <string name="intervals">Intervals</string>
+    <string name="velocity_unit">Velocity Unit</string>
+    <string name="save">Save</string>
+    <string name="english">English</string>
+    <string name="vietnamese">Vietnamese</string>
+    <string name="unit">Units</string>
+    <string name="celcius" translatable="false">ºC</string>
+    <string name="farenheit" translatable="false">ºF</string>
+    <string name="reset_to_default">Reset to default</string>
+    <string name="meter" translatable="false">m/s</string>
+    <string name="kilometer" translatable="false">km/s</string>
+    <string name="minutes">Minutes</string>
+    <string name="days">Days</string>
+    <string name="each">Each</string>
+    <string name="title_activity_activiy_map_layer">Map</string>
+    <string name="title_activity_maps_layer">Map</string>
+    <string name="velocity">Velocity</string>
+    <string name="quantity_of_forecast_days">Quantity of forecast days</string>
+    <string name="about_us">About us</string>
+    <string name="themes">Themes</string>
+    <string name="setting">Setting</string>
+
+    <string name="details">Details</string>
+
+    <string name="chance_of">Chance</string>
+    <string name="chance_of_sunshine">Chance of Sunshine</string>
+    <string name="chance_of_rain">Chance of Rain</string>
+    <string name="chance_of_fog">Chance of Fog</string>
+    <string name="chance_of_overcast">Chance of Overcast</string>
+    <string name="chance_of_frost">Chance of Frost</string>
+
+    /////////////////////////////////////////////////////
+    <string name="code395">Moderate or heavy snow in area with thunder</string>
+    <string name="code392">Patchy light snow in area with thunder</string>
+    <string name="code389">Moderate or heavy rain in area with thunder</string>
+    <string name="code386">Patchy light rain in area with thunder</string>
+    <string name="code377">Moderate or heavy showers of ice pellets</string>
+    <string name="code374">Light showers of ice pellets</string>
+    <string name="code371">Moderate or heavy snow showers</string>
+    <string name="code368">Light snow showers</string>
+    <string name="code365">Moderate or heavy sleet showers</string>
+    <string name="code362">Light sleet showers</string>
+    <string name="code359">Torrential rain shower</string>
+    <string name="code356">Moderate or heavy rain shower</string>
+    <string name="code353">Light rain shower</string>
+    <string name="code350">Ice pellets</string>
+    <string name="code338">Heavy snow</string>
+    <string name="code335">Patchy heavy snow</string>
+    <string name="code332">Moderate snow</string>
+    <string name="code329">Patchy moderate snow</string>
+    <string name="code326">Light snow</string>
+    <string name="code323">Patchy light snow</string>
+    <string name="code320">Moderate or heavy sleet</string>
+    <string name="code317">Light sleet</string>
+    <string name="code314">Moderate or Heavy freezing rain</string>
+    <string name="code311">Light freezing rain</string>
+
+    <string name="code308">Heavy rain</string>
+    <string name="code305">Heavy rain at times</string>
+    <string name="code302">Moderate rain</string>
+    <string name="code299">Moderate rain at times</string>
+    <string name="code296">Light rain</string>
+    <string name="code293">Patchy light rain</string>
+    <string name="code284">Heavy freezing drizzle</string>
+    <string name="code281">Freezing drizzle</string>
+    <string name="code266">Light drizzle</string>
+
+    <string name="code263">Patchy light drizzle</string>
+    <string name="code260">Freezing fog</string>
+    <string name="code248">Fog</string>
+    <string name="code230">Blizzard</string>
+    <string name="code227">Blowing snow</string>
+    <string name="code200">Thundery outbreaks in nearby</string>
+    <string name="code185">Patchy freezing drizzle nearby</string>
+    <string name="code182">Patchy sleet nearby</string>
+    <string name="code179">Patchy snow nearby</string>
+    <string name="code176">Patchy rain nearby</string>
+    <string name="code143">Mist</string>
+    <string name="code122">Overcast</string>
+    <string name="code119">Cloudy</string>
+    <string name="code116">Partly Cloudy</string>
+    <string name="code113">Clear/Sunny</string>
+    /////////////////////////////////////////////////////
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+
+    <string name="mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="wed">Wed</string>
+    <string name="thu">Thu</string>
+    <string name="fri">Fri</string>
+    <string name="sat">Sat</string>
+    <string name="sun">Sun</string>
+
+    /////////////////////////////////////////////////////
+    <string name="loading_data">"Connecting to server ..... "</string>
+    <string name="connection_failed">Connection Failed! </string>
+    <string name="unable_to_connect_to_server">Unable to get information of this location. Please check your internet connection or try another location.</string>
+    <string name="try_again">Try Again</string>
+    <string name="cancel">Cancel</string>
+    <string name="unknown_place">Unknown Place</string>
+    <string name="choose_location">Choose Location</string>
+    <string name="please_enable_gps">Please enable GPS for auto-update your current location, or choose it on map.</string>
+    <string name="gps_setting">GPS Settings</string>
+    <string name="open_map"> Open map</string>
+    <string name="forecast">Forecast</string>
+    <string name="settings">Settings</string>
+    <string name="world_weather_map">World Weather Map</string>
+    /////////////////////////////////////////////////////
+
+    <string name="warning_sunny">Remember to wear coat and hat to protect your skin from the sun light.</string>
+    <string name="warning_sunny2">Wearing light clothing will be better than dark one.</string>
+    <string name="warning_partly_cloud">Perfect weather for camping  outdoor activities.</string>
+    <string name="warning_partly_cloud2">You should prepare when cloud is denser, it will be rain.</string>
+    <string name="warning_overcast">It can be rain in the next hour, remember to take your umbrella with you.</string>
+    <string name="warning_overcast2">Bad weather can decrease excitement in your work.</string>
+    <string name="warning_thunder">There are lightnings outside, stay home for your safety.</string>
+    <string name="warning_thunder2">It can be rain or storm in the next hour.</string>
+    <string name="warning_mist">Drive carefully. The mist can eliminate your vision.</string>
+    <string name="warning_mist2">Be careful! You will most likely get respiratory disease when going under mist.</string>
+    <string name="warning_light_snow">Wear more warn clothes. It is cold outside.</string>
+    <string name="warning_light_snow2">You should go inside when snow fall more heavier.</string>
+    <string name="warning_rain">Do not get yourself wet or you will catch a cold.</string>
+    <string name="warning_rain2">Remember to bring dry clothes inside to prevent it from being got wet.</string>
+    <string name="warning_snow">You may face difficulty in transportation</string>
+    <string name="warning_snow2">When snow stop, it\'s time to play some winter sports.</string>
+    <string name="warning_ice_pellets">Stay inside, the ice pellets is very dangerous</string>
+    <string name="warning_ice_pellets2">You should be careful when moving on slippery roads.</string>
+    <string name="warning_rain_thunder">Do not stand near any high tree, the thunder can get on there any time</string>
+    <string name="warning_rain_thunder2">It will most likely be storm. You should prepare for that situation.</string>
+    <string name="appwidget_text" translatable="false">EXAMPLE</string>
+    <string name="add_widget" translatable="false">Add widget</string>
+    <string name="fail_to_connect">Failed to connect to server! :(</string>
+    <string name="unnamed_place">Unnamed Place</string>
+    ///////////////////////////////////////////////////////
+    <string name="member">Member</string>
+    <string name="name01">Truong Dinh Duc</string>
+    <string name="name02">Dao Quoc Hoang</string>
+    <string name="name03">Nguyen Hoang Loc</string>
+    <string name="name04">Nguyen Huy Linh</string>
+    <string name="name05">Nguyen Nam Quan</string>
+
+    ///////////////////////////////////////////////////////
+    <string name="temp">Temperature</string>
+    <string name="wind">Wind Speed</string>
+    <string name="precipitation">Precipitation</string>
+    <string name="clouds">Clouds</string>
+    <string name = "about"> Application Information</string>
+    <string name = "set_interval">Set Intervals</string>
+    <string name = "theme">Themes</string>
+    <string name = "apply">Apply</string>
+    <string name = "rainfall">Rainfall (mm)</string>
+    <string name = "temperatureC">Temperature (°C)</string>
+</resources>
