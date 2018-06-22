@@ -432,6 +432,7 @@ public class FragmentWeather extends Fragment{
         imageViewCurrentCloudCover.setVisibility(View.VISIBLE);
         imageViewCurrentHumidity.setVisibility(View.VISIBLE);
         textViewDetail.setVisibility(View.VISIBLE);
+        cardViewForecast.invalidate();
     }
 
     void setCurrentWeatherStatusViewForNoInternetConnection(){

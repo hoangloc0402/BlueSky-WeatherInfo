@@ -1,6 +1,8 @@
 package com.ttcnpm.group28.weatherapp.hoangloc;
 
 import android.content.res.Resources;
+import android.util.Log;
+
 import com.ttcnpm.group28.weatherapp.R;
 import com.ttcnpm.group28.weatherapp.namquan.WeatherInformationPacket;
 import com.ttcnpm.group28.weatherapp.dinhduc.WeatherKeyWord;
@@ -190,13 +192,20 @@ public class WeatherUtils {
         SimpleDateFormat outFormat = new SimpleDateFormat("EEE");
         String day = outFormat.format(date);
         switch (day){
-            case "Mon": return weatherResources.getString(R.string.mon);
-            case "Tue": return weatherResources.getString(R.string.tue);
-            case "Wed": return weatherResources.getString(R.string.wed);
-            case "Thu": return weatherResources.getString(R.string.thu);
-            case "Fri": return weatherResources.getString(R.string.fri);
-            case "Sat": return weatherResources.getString(R.string.sat);
-            case "Sun": return weatherResources.getString(R.string.sun);
+            case "Mon": case "Th 2":
+                return weatherResources.getString(R.string.mon);
+            case "Tue": case "Th 3":
+                return weatherResources.getString(R.string.tue);
+            case "Wed": case "Th 4":
+                return weatherResources.getString(R.string.wed);
+            case "Thu": case "Th 5":
+                return weatherResources.getString(R.string.thu);
+            case "Fri": case "Th 6":
+                return weatherResources.getString(R.string.fri);
+            case "Sat": case "Th 7":
+                return weatherResources.getString(R.string.sat);
+            case "Sun": case "CN":
+                return weatherResources.getString(R.string.sun);
             default: return "";
         }
     }
@@ -212,13 +221,20 @@ public class WeatherUtils {
         SimpleDateFormat outFormat = new SimpleDateFormat("EEE");
         String day = outFormat.format(date);
         switch (day){
-            case "Mon": return weatherResources.getString(R.string.monday);
-            case "Tue": return weatherResources.getString(R.string.tuesday);
-            case "Wed": return weatherResources.getString(R.string.wednesday);
-            case "Thu": return weatherResources.getString(R.string.thursday);
-            case "Fri": return weatherResources.getString(R.string.friday);
-            case "Sat": return weatherResources.getString(R.string.saturday);
-            case "Sun": return weatherResources.getString(R.string.sunday);
+            case "Mon": case "Th 2":
+                return weatherResources.getString(R.string.monday);
+            case "Tue": case "Th 3":
+                return weatherResources.getString(R.string.tuesday);
+            case "Wed": case "Th 4":
+                return weatherResources.getString(R.string.wednesday);
+            case "Thu": case "Th 5":
+                return weatherResources.getString(R.string.thursday);
+            case "Fri": case "Th 6":
+                return weatherResources.getString(R.string.friday);
+            case "Sat": case "Th 7":
+                return weatherResources.getString(R.string.saturday);
+            case "Sun": case "CN":
+                return weatherResources.getString(R.string.sunday);
             default: return "";
         }
     }

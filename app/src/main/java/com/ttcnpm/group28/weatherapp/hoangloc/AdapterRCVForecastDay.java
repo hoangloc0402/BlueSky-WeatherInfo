@@ -46,13 +46,13 @@ public class AdapterRCVForecastDay extends RecyclerView.Adapter<AdapterRCVForeca
         WeatherInformationPacket WIP = data.get(position);
         if (WIP == null)
             return;
-        holder.textViewDaysOfWeek.setText(WeatherUtils.getDayEEEE(WIP));
-
         boolean toF = ActivityMain.weatherSharedPref.getString(WeatherKeyWord.CURRENT_TEMPERATURE_TYPE, WeatherKeyWord.CELCIUS)
                 .equals(WeatherKeyWord.FARENHEIT);
-        holder.textViewMinTemp.setText(WeatherUtils.convertTemperatureWithoutConcat(WIP.minTempC, toF) + " -");
+        holder.textViewMinTemp.setText(WeatherUtils.convertTemperatureWithoutConcat(WIP.minTempC, toF) + "-");
         holder.textViewMaxTemp.setText(WeatherUtils.convertTemperatureWithoutConcat(WIP.maxTempC, toF));
         holder.imageViewWeatherStatus.setBackgroundResource(WeatherUtils.getWeatherStatusResourceID(Integer.valueOf(WIP.weatherCode)));
+        holder.textViewDaysOfWeek.setText(WeatherUtils.getDayEEEE(WIP));
+        holder.textViewDaysOfWeek.setVisibility(View.VISIBLE);
     }
 
     @Override

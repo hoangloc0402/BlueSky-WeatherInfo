@@ -126,7 +126,6 @@ public class DatabaseManager extends SQLiteOpenHelper {
         onCreate(db);
     }
     public void addInformation(ArrayList<WeatherInformationPacket> list, String tableName) {
-        Log.d("abcdefghiklmn","----------------------------------------------");
         deleteTable(tableName);
         SQLiteDatabase db = this.getWritableDatabase();
 
